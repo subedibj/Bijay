@@ -246,10 +246,7 @@ font-style: italic;
 
 
 
-
- 	     /* footer*/
-
-.footer{
+.foot-div{
 	background:#000;
 	height: 50px;
 	margin-top: 50px;
